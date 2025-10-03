@@ -1,0 +1,23 @@
+.head {
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(241, 215, 190);
+    border: 1px solid
+}
+
+.recipes {
+    font-size: x-large;
+}
+
+.recipe {
+    display: inline-block;
+    padding-bottom: 8px;
+    margin-right: 100px;
+    border: 1px solid;
+    padding: 12px 8px;
+    background-color: rgba(255, 0, 0, 0.378);
+}
+
+#enjoy {
+    color: green;
+}
